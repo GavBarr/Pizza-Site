@@ -1,0 +1,275 @@
+*{margin: 0; padding: 0; user-select: none;}
+
+
+
+li.top-menu
+{
+	position: relative;
+}
+input#about:checked + ul
+{
+	display: block;
+}
+ul.sub-menu
+{
+	border: 1px solid black;
+	position: absolute;
+	top: 40px;
+	left: 1px;
+	display: none;
+}
+ul.sub-menu li a
+{
+
+}
+ul.sub-menu li
+{
+	display: block;
+}
+
+
+ul li, ul li a, label
+{
+	display: inline-block;
+	
+}
+
+ul input
+{
+	display:inline-block;
+}
+
+h1
+{
+	padding-top: 5px;
+	font-family: "Lucida Console", "Courier New", monospace;
+}
+
+ul
+{
+	background-color: orange;
+	text-align: center;
+	padding-top: 5px;
+	font-weight: bold;
+	font-family: "Lucida Console", "Courier New", monospace;
+}
+
+.big-background
+{
+	background-image: linear-gradient(red, yellow);
+
+	height: 100vh;
+	box-sizing: border-box;
+	
+}
+
+p1
+{
+	background-color: rgb(255, 102, 102);
+	font-size: 30px;
+	font-family: georgia;
+	text-align: center;
+	padding-top: 10px;
+	padding-left: 100px;
+	padding-right: 100px;
+	word-wrap: break-word;
+	width: 600px;
+  border: 15px solid black;
+  padding: 50px;
+  margin: 20px;
+	left: 975px;
+	position: absolute;
+	
+}
+
+p3
+{
+	background-color: rgb(255, 102, 102);
+	font-size: 30px;
+	font-family: georgia;
+	text-align: center;
+	padding-top: 10px;
+	padding-left: 100px;
+	padding-right: 100px;
+	word-wrap: break-word;
+	width: 600px;
+  border: 15px solid black;
+  padding: 50px;
+  margin: 20px;
+	left: 550px;
+	top: 45%;
+	position: absolute;
+	
+}
+.contact
+{
+	background-color: rgb(255, 102, 102);
+	font-size: 30px;
+	font-family: "Times New Roman", Times, serif;
+	text-align: center;
+	padding-top: 10px;
+	padding-left: 100px;
+	padding-right: 100px;
+	word-wrap: break-word;
+	width: 250px;
+  border: 15px solid black;
+  padding: 50px;
+  margin: 20px;
+	left: 1150px;
+	top: 45%;
+	position: absolute;
+	
+}
+
+.order img
+{
+	float: left;
+	margin-left: 0px 60px 60px 60px;
+	left: 1100px;
+	top: 55%;
+	position: absolute;
+
+}
+.contacts img
+{
+	float: left;
+	left: 350px;
+	top: 10%;
+	position: absolute;
+
+}
+
+.welcome img
+{
+	float: left;
+	margin-left: 0px 60px 60px 60px;
+	left: 550px;
+	top: 12%;
+	position: absolute;
+
+}
+
+.toppings
+{
+	background-color: orange;
+	font-size: 20px;
+	font-family: georgia;
+	text-align: center;
+	padding-top: 10px;
+	padding-left: 100px;
+	padding-right: 100px;
+	word-wrap: break-word;
+	width: 200px;
+  border: 15px solid black;
+  padding: 50px;
+  margin: 20px;
+	left: 650px;
+	top: 10%;
+	position: absolute;
+	
+}
+
+.state
+{
+	font-size:20px;
+}
+
+.sizes
+{
+	background-color: orange;
+	font-size: 20px;
+	text-align: center;
+	padding-top: 10px;
+	padding-left: 100px;
+	padding-right: 100px;
+
+	width: 150px;
+  border: 15px solid black;
+  padding: 50px;
+  margin: 20px;
+	left: 375px;
+	top: 10%;
+	position: absolute;
+	
+}
+p2
+{
+	background-color: orange;
+	font-size: 20px;
+	font-family: "Times New Roman", Times, serif;
+	text-align: center;
+	padding-top: 10px;
+	padding-left: 100px;
+	padding-right: 100px;
+	word-wrap: break-word;
+	width: 200px;
+  border: 15px solid black;
+  padding: 50px;
+  margin: 20px;
+	left: 650px;
+	top: 10%;
+	position: absolute;
+	
+}
+
+.crust
+{
+	background-color: orange;
+	font-size: 20px;
+	font-family: "Times New Roman", Times, serif;
+	text-align: center;
+	padding-top: 10px;
+	padding-left: 100px;
+	padding-right: 100px;
+	word-wrap: break-word;
+	width: 200px;
+  border: 15px solid black;
+  padding: 50px;
+  margin: 20px;
+	left: 375px;
+	top: 58%;
+	position: absolute;
+	
+}
+.entry
+{
+	background-color: orange;
+	font-size: 20px;
+	font-family: "Times New Roman", Times, serif;
+	text-align: center;
+	padding-top: 10px;
+	padding-left: 100px;
+	padding-right: 100px;
+	word-wrap: break-word;
+	width: 200px;
+  border: 15px solid black;
+  padding: 50px;
+  margin: 20px;
+	left: 60px;
+	top: 10%;
+	position: absolute;
+	
+}
+
+ul li a:hover, .active, ul li label:hover
+{
+	color: orange;
+	background-color: white;
+}
+label
+{
+	cursor: pointer;
+}
+ul li a, label
+{
+	padding: 15px;
+	text-decoration: none;
+	font-family: tahoma;
+	color: black;
+	border-radius:5px 5px 0 0
+}
+
+h1
+{
+	text-align: center;
+}

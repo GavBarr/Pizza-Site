@@ -1,0 +1,18 @@
+<!doctype html>
+<html lang="en" >
+<html>
+	<head>
+		<title> Stone Cold Pizzeria</title>
+	</head>
+	<body>
+		<h1>Welcome to Stone Cold Pizzeria</h1>
+		<ul>
+			<li><a href="index.html">Home</a></li>
+			<li><a href="about.html">About</a></li>
+			<li><a href="contact.html">Contact</a></li>
+			<li><a href="order.html">Order</a></li>
+		</ul>
+		
+
+	</body>
+<html>

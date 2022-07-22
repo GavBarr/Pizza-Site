@@ -1,0 +1,26 @@
+<!doctype html>
+<html lang="en" >
+<html>
+	<head>
+		<title> Gavin's Pizzeria</title>
+		<link href="css/style.css" rel="stylesheet" type="text/css">
+	</head>
+	<body class="big-background">
+		<h1>Welcome to Gavin's Pizzeria</h1>
+
+		<ul>
+			<li><a href="index.html">Home</a></li>
+			<li><a href="about.html">About</a></li>
+			<li><a href="contact.html">Contact</a></li>
+			<li><a href="order.html">Order</a></li>
+		</ul>
+		<p3>Welcome! We are so glad that you are here on our website.
+		We have the best pizza in Utah and would love to share the experience 
+		with you! We opened in the beginning of 2022 and are located in the South Jordan area.
+		we hope to see you soon!</P3>
+		<div class="welcome">
+		<img src="img/welcome.png" width="800" height="300">
+		</div>
+
+	</body>
+<html>
